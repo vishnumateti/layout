@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.layout-container {
+  background-color: #475569;
+  width: 100vw;
+  padding: 30px;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.checkbox-text {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-left: 15px;
+}
